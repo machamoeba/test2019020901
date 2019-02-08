@@ -6,4 +6,9 @@ asdf
 
 asdadasaaaa
 
-¿ì¸®³ª¶ó1
+ï¿½ì¸®ï¿½ï¿½ï¿½ï¿½1
+ìš°ë¦¬ë‚˜ë¼ë§Œì„¸ utf8
+hello world
+
+
+we are the world!
